@@ -1,2 +1,4 @@
 # hello-world-2
-Introducción github
+
+i hummans,
+in this moment i am creating the best idea of the business
